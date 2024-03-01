@@ -7,6 +7,6 @@
 - bullet point
 - another bullet point
 
-1 number
-2 list
+1. number
+2. list
 
